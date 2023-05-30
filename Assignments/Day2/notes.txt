@@ -7,3 +7,5 @@ Assignments
 -table
 -margin
 -image and use everything that are today 
+-on click functionality
+-dom manipulation
