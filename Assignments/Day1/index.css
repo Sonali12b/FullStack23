@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+#info-box{
+    border: 3px solid green;
+    margin: 5px;
+    background-color: blueviolet;
+}
+#name-box{
+    color: rgb(0, 242, 255);
+}
+#first-box{
+    background-color: antiquewhite;
+    color: blue;
+    display: flex;
+    justify-content: space-evenly;/*vertical*/
+    align-items: center;/*horizontal*/
+    border: 3px solid green;
+    margin: 5px;
+}
+img{
+    height: 20%;
+    width: 20%;
+    margin: 3px;
+}
+#second-box{
+    border: 3px solid green;
+    margin: 5px;
+    background-color: rgb(185, 155, 213);
+}
+#third-box{
+    border: 3px solid green;
+    margin: 5px;
+    background-color: rgb(136, 200, 127);
+    display: flex;
+}
