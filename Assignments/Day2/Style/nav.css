@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.nav-box{
+    /* padding: 50px; */
+    padding-bottom: 30px;
+    padding-top: 30px;
+    width: 100%;
+    background-color: antiquewhite;
+    position: sticky;
+    text-align: center;
+}
+.left{
+    float: left;
+    display: flex;
+}
+.right{
+    float: right;
+    display: flex;
+}
+.left>li{
+    margin-left: 20px;
+}
+.right>li{
+    margin-right: 20px;
+}
+li{
+    font-size: 20px;
+}
