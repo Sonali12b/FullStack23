@@ -1,4 +1,5 @@
 Day2 
 -table
 -margin and padding
--
+-position: relative,absolute,fixed
+-z-index:to make the image tranparent and bring the content front
