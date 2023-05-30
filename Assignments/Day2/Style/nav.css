@@ -3,13 +3,14 @@
     margin: 0;
     box-sizing: border-box;
     list-style: none;
+    font-family: 'Poppins';
 }
 .nav-box{
     /* padding: 50px; */
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     padding-top: 30px;
     width: 100%;
-    background-color: antiquewhite;
+    background-color: black;
     position: sticky;
     text-align: center;
 }
@@ -28,8 +29,31 @@
     margin-right: 20px;
 }
 li{
-    font-size: 20px;
+    font-size: 25px;
+    /* background-color:lavender ; */
+    padding:10px;
+    border-radius: 5px;
+    color: whitesmoke
 }
 #first-box{
-    background-color: rgb(168, 204, 204);
+    padding: 30px;
+    background-color: ghostwhite;
+}
+#logo{
+    height: 45px;
+    border-radius: 2px;
+}
+button{
+    color: whitesmoke;
+    background-color: rgba(116, 113, 113, 0.87);
+    padding: 10px;
+    border-radius: 10px;
+}
+table{
+    padding: 10px;
+}
+th,td{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
 }
