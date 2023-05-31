@@ -1,4 +1,7 @@
 DAY3
 -for each returns single object when iterated
 -map returns array of objects
--
+-npm init(package json file)
+-json server is npm package used to run a server in local pc
+-npm i json-server
+json-server --watch data.json --port 8080
