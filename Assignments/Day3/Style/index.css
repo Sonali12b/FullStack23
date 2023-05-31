@@ -1,11 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&family=Satisfy&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Satisfy;
+}
 #show-movie{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 10px;
+    gap: 5px;
+    padding: 10px;
+    justify-items: center;
+    background-color: antiquewhite;
+
 }
 #show-movie img{
     width: 200px;
-    /* height: 200px; */
-    object-fit: fill;
+    object-fit: fill;   
+}
+#nav-box{
+    background-color: rgb(204, 152, 84);
+    padding: 30px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#nav-box p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+button{
+    background-color: rgb(204, 152, 84);
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid ;
 }
