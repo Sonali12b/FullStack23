@@ -12,12 +12,16 @@
     gap: 5px;
     padding: 10px;
     justify-items: center;
+    /* margin-top: 7rem; */
     background-color: antiquewhite;
+    width: 70%;
+    margin: 7rem auto;
 
 }
 #show-movie img{
     width: 200px;
-    object-fit: fill;   
+    object-fit: cover;   
+    margin-bottom: 10px;
 }
 #nav-box{
     background-color: rgb(204, 152, 84);
@@ -37,4 +41,18 @@ button{
     padding: 5px;
     border-radius: 3px;
     border: 1px solid ;
+}
+#show-movie div{
+    margin-bottom: 20px;
+
+}
+#foot-box{
+    background-color: rgb(204, 152, 84);
+    padding: 2px;
+    bottom: 0;
+    width: 100%;
+}
+#foot-box p{
+    text-align: center;
+    color: aliceblue;
 }

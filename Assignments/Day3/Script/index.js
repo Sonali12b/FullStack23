@@ -5,9 +5,9 @@ const data=[
         rating:6
     },
     {
-        image:"https://www.pinkvilla.com/images/2023-02/1675757339_kim-da-mi-1432x2048.jpeg",
-        title:"Soulmate",
-        rating:6
+        image:"https://m.media-amazon.com/images/M/MV5BNjIwOTkxZGItYmU2YS00MGIyLWEyZDItYzBjZjUxZmNjY2M3XkEyXkFqcGdeQXVyMTA0MzA1MzQy._V1_FMjpg_UX1000_.jpg",
+        title:"Recalled",
+        rating:8
     },
     {
         image:"https://www.pinkvilla.com/images/2023-02/1675757339_kim-da-mi-1432x2048.jpeg",
