@@ -8,6 +8,25 @@ const data=[
         image:"https://www.pinkvilla.com/images/2023-02/1675757339_kim-da-mi-1432x2048.jpeg",
         title:"Soulmate",
         rating:6
+    },
+    {
+        image:"https://www.pinkvilla.com/images/2023-02/1675757339_kim-da-mi-1432x2048.jpeg",
+        title:"Soulmate",
+        rating:6
+    },
+    {
+        image:"https://www.pinkvilla.com/images/2023-02/1675757339_kim-da-mi-1432x2048.jpeg",
+        title:"Soulmate",
+        rating:6
+    },{
+        image:"https://www.pinkvilla.com/images/2023-02/1675757339_kim-da-mi-1432x2048.jpeg",
+        title:"Soulmate",
+        rating:6
+    },
+    {
+        image:"https://www.pinkvilla.com/images/2023-02/1675757339_kim-da-mi-1432x2048.jpeg",
+        title:"Soulmate",
+        rating:6
     }
 ]
 const movie_box= document.getElementById("show-movie");
