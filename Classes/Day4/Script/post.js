@@ -19,7 +19,8 @@ button.addEventListener("click", () => {
       .then(res => res.json)
       .then(data => {
         console.log(data);
-        alert("AAdded successfully!!");
+        // alert("Added successfully!!");
+        window.location.href='./index.html'
       });
   } else {
     alert("Please fill up the form!!");

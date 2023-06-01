@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300;400&family=Poppins:wght@200;300;400;500&family=Satisfy&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Satisfy;
+    font-family: Catamaran;
     list-style-type: none;
 }
 #show-movie{
@@ -15,8 +15,9 @@
     justify-items: center;
     /* margin-top: 7rem; */
     background-color: antiquewhite;
-    width: 80%;
-    margin: 6rem auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
     
 }
 /* #show-movie img{
@@ -66,5 +67,10 @@ h3{
     top: 0;
     display: none;
     width: 100%;
+    text-align: justify;
+}
+#show-box{
+    width: 80%;
+    margin: 6rem auto;
 }
 

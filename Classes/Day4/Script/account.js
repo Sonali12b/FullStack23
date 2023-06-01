@@ -17,7 +17,8 @@ button.addEventListener("click", () => {
       .then(res => res.json)
       .then(data => {
         console.log(data);
-        alert("Account Created successfully!!");
+        // alert("Account Created successfully!!");
+        window.location.href='./login.html';
       });
   } else {
     alert("Please fill up the details!!");
