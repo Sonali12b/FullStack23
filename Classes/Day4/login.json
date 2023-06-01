@@ -1,0 +1,19 @@
+{
+  "login": [
+    {
+      "email": "demo@demo.com",
+      "password": "456789",
+      "id": 1
+    },
+    {
+      "email": "bhatta03somya@gmail.com",
+      "password": "asdfgh",
+      "id": 2
+    },
+    {
+      "id": 1685609406924,
+      "email": "demo@demo.com",
+      "password": "ertyuio"
+    }
+  ]
+}
