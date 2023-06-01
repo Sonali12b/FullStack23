@@ -9,3 +9,8 @@ fetch("url",(
 -after getting the data from the server and store in a array of objects.
 -fetch requests for the data and gets the response from the server.
 -create account webpage
+-window.location.href='file name'
+-Assignment
+create acc page
+login
+posting the dish form
