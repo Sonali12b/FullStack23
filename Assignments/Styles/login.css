@@ -9,7 +9,7 @@ body {
 
 }
 
-#create-acc {
+#login-acc {
     background-color: rgb(204, 152, 84);
     top: 50%;
     left: 50%;
@@ -62,17 +62,17 @@ header {
     border: none;
 }
 
-.signup {
+.login {
     color: antiquewhite;
     font-size: 17px;
     text-align: center;
 }
 
-.signup a {
+.login a {
     color: black;
     cursor: pointer;
 }
 
-.signup a:hover {
+.login a:hover {
     text-decoration: underline;
 }
