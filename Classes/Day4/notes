@@ -1,0 +1,10 @@
+Day4
+-fetch(take) method using this ur u can read the data provided by the url
+-write in script.js
+fetch("url",(
+    method:"GET"
+)).then((response)=>response.json)
+.then((data)=>console.log(data));
+
+-after getting the data from the server and store in a array of objects.
+-fetch requests for the data and gets the response from the server.

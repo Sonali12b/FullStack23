@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&family=Satisfy&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Satisfy;
+    list-style-type: none;
+}
+#show-movie{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+    padding: 10px;
+    justify-items: center;
+    /* margin-top: 7rem; */
+    background-color: antiquewhite;
+    width: 70%;
+    margin: 7rem auto;
+
+}
+#show-movie img{
+    width: 200px;
+    object-fit: cover;   
+    margin-bottom: 10px;
+}
+#nav-box{
+    background-color: rgb(204, 152, 84);
+    padding: 30px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#nav-box p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+button{
+    background-color: rgb(204, 152, 84);
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid ;
+}
+#show-movie div{
+    margin-bottom: 20px;
+
+}
+#foot-box{
+    background-color: rgb(204, 152, 84);
+    padding: 2px;
+    bottom: 0;
+    width: 100%;
+}
+#foot-box p{
+    text-align: center;
+    color: aliceblue;
+}
