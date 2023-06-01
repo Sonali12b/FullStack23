@@ -53,8 +53,6 @@ for(let i=0;i<data.length;i++){
     })
     div.append(image,movieTitle,movieRating,button);
     movie_box.append(div);
-
-
 }
 });
 

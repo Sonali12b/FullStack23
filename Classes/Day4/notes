@@ -14,3 +14,4 @@ fetch("url",(
 create acc page
 login
 posting the dish form
+show the updated post in the list

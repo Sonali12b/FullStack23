@@ -1,24 +1,19 @@
 {
   "login": [
     {
+      "id": 1685623292806,
       "email": "demo@demo.com",
-      "password": "456789",
-      "id": 1
+      "password": "123"
     },
     {
-      "email": "bhatta03somya@gmail.com",
-      "password": "asdfgh",
-      "id": 2
+      "id": 1685623594409,
+      "email": "sonali24bhatta@gmail.com",
+      "password": "sdfghjk"
     },
     {
-      "id": 1685609406924,
+      "id": 1685627919749,
       "email": "demo@demo.com",
-      "password": "ertyuio"
-    },
-    {
-      "id": 1685611702752,
-      "email": "demo@demo.com",
-      "password": "56789"
+      "password": "1234"
     }
   ]
 }
