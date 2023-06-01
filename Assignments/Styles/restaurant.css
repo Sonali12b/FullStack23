@@ -17,7 +17,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     width: 80%;
-    margin: 6rem auto;
+    margin: 7rem auto;
     
 }
 /* #show-movie img{
@@ -30,10 +30,14 @@
 } */
 #nav-box{
     background-color: rgb(204, 152, 84);
-    padding: 20px;
+    padding: 10px;
     position: fixed;
     top: 0;
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 #nav-box p{
     text-align: center;
@@ -69,3 +73,18 @@ h3{
     width: 100%;
     text-align: justify;
 }
+#new {
+    color: antiquewhite;
+    background-color: black;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: 0.4s;
+    border-radius: 3px;
+}
+
+#new:hover {
+    background: antiquewhite;
+    color: rgb(204, 152, 84);
+    border: none;
+}
+
