@@ -35,6 +35,7 @@ data.map((item)=>{
     image.style.height="200px";
     image.style.width="270px";
     image.style.borderRadius="10px";
+    image.style.objectFit="cover";
 
     const movieTitle=document.createElement("h3");
     movieTitle.innerHTML=item.food;
