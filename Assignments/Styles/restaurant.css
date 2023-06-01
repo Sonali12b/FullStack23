@@ -13,11 +13,11 @@
     gap: 5%;
     padding: 10px;
     justify-items: center;
-    /* margin-top: 7rem; */
     background-color: antiquewhite;
     margin-top: 20px;
     margin-bottom: 20px;
-
+    width: 80%;
+    margin: 6rem auto;
     
 }
 /* #show-movie img{
@@ -69,8 +69,3 @@ h3{
     width: 100%;
     text-align: justify;
 }
-#show-box{
-    width: 80%;
-    margin: 6rem auto;
-}
-
