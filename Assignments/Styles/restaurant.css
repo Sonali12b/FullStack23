@@ -17,16 +17,16 @@
     background-color: antiquewhite;
     width: 80%;
     margin: 6rem auto;
-
+    
 }
-#show-movie img{
+/* #show-movie img{
     width: 100%;
     height: 60%;
     object-fit: cover;   
     margin-bottom: 5px;
-    /* padding: 20px; */
+    padding: 20px;
     border-radius: 5px;
-}
+} */
 #nav-box{
     background-color: rgb(204, 152, 84);
     padding: 20px;

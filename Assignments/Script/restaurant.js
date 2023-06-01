@@ -26,6 +26,9 @@ data.map((item)=>{
     const div=document.createElement("div");
     const image=document.createElement("img");
     image.src=item.image;
+    image.style.height="200px";
+    image.style.width="270px";
+
     const movieTitle=document.createElement("h3");
     movieTitle.innerHTML=item.food;
     const foodDesc= document.createElement("p");
@@ -45,7 +48,7 @@ data.map((item)=>{
     const button2=document.createElement("button");
     button2.innerText="Show less";
     button2.addEventListener('click',()=>{
-        foodDesc.remove();
+        foodDesc.style.display="none";
     });
     div.append(image,movieTitle,foodDesc,button1,button2);
     food_box.append(div);
