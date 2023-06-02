@@ -11,20 +11,22 @@
       "desc": "Biryani is a mixed rice dish originating in South Asia. It is made with Indian spices, vegetables, rice, and usually some type of meat, or in some cases without any meat, and sometimes, in addition, eggs and potatoes."
     },
     {
-      "image": "https://1.bp.blogspot.com/-FtlrI6vhMww/X2jDWCb9zUI/AAAAAAAAMPQ/TmUrBHkFo6Ui-uPBi4D6KHKhKwq6-zebQCLcBGAsYHQ/s16000/Kolkata%2Begg%2Broll.JPG",
-      "food": "Egg roll",
-      "desc": "Biryani is a mixed rice dish originating in South Asia. It is made with Indian spices, vegetables, rice, and usually some type of meat, or in some cases without any meat, and sometimes, in addition, eggs and potatoes."
-    },
-    {
-      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/paneer-sandwich-recipe.jpg.webp",
-      "food": "Paneer Sandwich",
-      "desc": "Biryani is a mixed rice dish originating in South Asia. It is made with Indian spices, vegetables, rice, and usually some type of meat, or in some cases without any meat, and sometimes, in addition, eggs and potatoes."
-    },
-    {
       "id": 1685648445925,
       "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/06/fast-food-assortment-soda.jpg?quality=82&strip=1",
       "food": "Burger",
       "desc": "hehehehehe"
+    },
+    {
+      "id": 1685650105531,
+      "image": "https://images.news18.com/ibnlive/uploads/2021/01/1610716314_untitled-design-2021-01-15t184025.049.jpg",
+      "food": "Pizza",
+      "desc": "its tasty"
+    },
+    {
+      "id": 1685650512225,
+      "image": "https://resize.indiatvnews.com/en/resize/oldbucket/1200_-/lifestylelifestyle/tempting-jalebi.jpg",
+      "food": "Jalebi",
+      "desc": "Its a sweet dish"
     }
   ]
 }
