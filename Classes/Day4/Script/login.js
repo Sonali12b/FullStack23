@@ -10,9 +10,14 @@ button.addEventListener("click",()=>{
         console.log(login);
         const user=login.find((item)=>item.email===email.value && item.password===password.value);
         console.log(user);
-        if(user){
-            window.location.href="./index.html"
-        }
+        if (user) {
+            localStorage.setItem("token",JSON.parse(Date.now()));
+            alert("Logged in Successfully");
+            window.location.href = "./index.html";
+          } else {
+            document.getElementById("error").innerText = "Invalid credentials!";
+          }
+    
     });
     // console.log(data);
 })
