@@ -85,7 +85,8 @@ for(let i=0;i<data.length;i++){
     button1.innerText="Select";
     button1.addEventListener('click',()=>{
         localStorage.setItem("id",JSON.stringify(data[i].id))
-        alert(`You have selected on ${data[i].title}`)
+        window.location.href="./details.html"
+        // alert(`You have selected on ${data[i].title}`)
     })
     div.append(image,movieTitle,movieRating,button,updatebtn,deletebtn,button1);
     movie_box.append(div);
