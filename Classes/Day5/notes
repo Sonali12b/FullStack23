@@ -1,0 +1,12 @@
+Day6
+project presentation-News Portal(Nilesh,Sahil,ME)
+Day7
+react started-
+-it is a library and sometimes a framework
+-nextJs uses reactJs and makes it lightweight and uses it
+-why we using ReactJs-scalability, single page application, this creates a virtual dom lighter and faster
+-single page application means everything works under a single port
+-it will render the body without disturbing the other html files
+-html in a function can be written
+-reusable code thus can be used across the application wherever you want
+-
