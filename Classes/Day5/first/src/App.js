@@ -1,10 +1,15 @@
 import './App.css';
-import Nav from './components/Nav';
+import './components/Card.css'
+import { Navbar } from './components/Navbar';
+import { Card } from "./components/Card";
+import { Body } from './components/Body';
 function App() {
+
   return (
-    <>
-    <Nav/>
-    </>
+    <div className='main'>
+    <Navbar/>
+    <Body></Body>
+    </div>
   );
 }
 
