@@ -1,6 +1,6 @@
 import React from 'react';
 import { AiOutlineHeart } from "react-icons/ai";
-import { FaRegComment,FaInstagram } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
 import './Card.css' ;
 export const Card = ({username,post,caption,time}) => {
   return (

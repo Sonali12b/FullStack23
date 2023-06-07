@@ -1,6 +1,7 @@
-Day6
+Day6(05.06.2023)
 project presentation-News Portal(Nilesh,Sahil,ME)
-Day7
+
+Day7(06.06.23)
 react started-
 -it is a library and sometimes a framework
 -nextJs uses reactJs and makes it lightweight and uses it
@@ -10,7 +11,15 @@ react started-
 -html in a function can be written
 -reusable code thus can be used across the application wherever you want
 -
-
-
+Assignment
 components-moviecard -> hardcoded data -> 
-{main assignment  components hai}
+{main assignment components hai}
+
+Day8(07.06.23)
+-state and api calling
+-mounting phase
+-updating phase: state management
+-hooks: used to manage the state in react
+state-change from 0 to 0 and nothing to 0 etc
+-previous state was false and acc to that react rendered the next state 
+-export const Card {should start with capital always}= ()
