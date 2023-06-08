@@ -23,3 +23,6 @@ Day8(07.06.23)
 state-change from 0 to 0 and nothing to 0 etc
 -previous state was false and acc to that react rendered the next state 
 -export const Card {should start with capital always}= ()
+-anything as properties
+-spread operator [...prev,{res}] 
+-
