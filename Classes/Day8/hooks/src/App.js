@@ -6,12 +6,12 @@ import { useEffect, useState } from "react";
 function App() {
   const [arr, setArr] = useState([]);
   const getData = async () => {
-    await fetch("https://jsonplaceholder.typicode.com/photos", {
+    await fetch("http://localhost:3001/users", {
       method: "GET",
     })
       .then(res => res.json())
       .then(data => {
-        data = data.slice(0, 10);
+        // data = data.slice(0, 10);
         console.log(data);
         setArr(data);
       });

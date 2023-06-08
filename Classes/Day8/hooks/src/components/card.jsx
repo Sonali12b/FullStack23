@@ -17,7 +17,7 @@ export const Card = ({title,url,thumbnailUrl,onclick}) => {
         <img src={url} alt="" className="image" />
         <p className="title">{title}</p>
         <img src={thumbnailUrl} alt="" className="thumb" />
-        <button onClick={onclick}></button>
+        <button onClick={onclick}>Click me</button>
 
     </div>
   )
