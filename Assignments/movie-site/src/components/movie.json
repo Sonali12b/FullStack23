@@ -1,19 +1,49 @@
 {
-  "posts": [
+  "movie": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "20th Century Girl",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/20th_Century_Girl.jpg",
+      "desc": "Set in 1999, the story revolves around Na Bo-ra (Kim Yoo-jung), a seventeen-year-old high school student with a bright personality.",
+      "rating": "9/10"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "title": "The Pirates: The Last Royal Treasure",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/The_Pirates_Goblin_Flag.jpg",
+      "desc": "Moo-chi (Kang Ha-neul), the head of the bandits, who claims to be the best swordsman in Goryeo, and Hae-rang (Han Hyo-joo), the owner of a pirate ship that conquered the sea. ",
+      "rating": "9/10"
+    },
+    {
+      "id": 4,
+      "title": "Soulmate",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
+      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
+      "rating": "9/10"
+    }, {
+      "id": 5,
+      "title": "Soulmate",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
+      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
+      "rating": "9/10"
+    }, {
+      "id": 6,
+      "title": "Soulmate",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
+      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
+      "rating": "9/10"
+    }, {
+      "id": 7,
+      "title": "Soulmate",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
+      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
+      "rating": "9/10"
+    }, {
+      "id": 8,
+      "title": "Soulmate",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
+      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
+      "rating": "9/10"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
