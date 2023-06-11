@@ -20,30 +20,41 @@
       "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
       "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
       "rating": "9/10"
-    }, {
+    },
+    {
       "id": 5,
       "title": "Soulmate",
       "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
       "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
       "rating": "9/10"
-    }, {
+    },
+    {
       "id": 6,
       "title": "Soulmate",
       "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
       "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
       "rating": "9/10"
-    }, {
+    },
+    {
       "id": 7,
       "title": "Soulmate",
       "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
       "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
       "rating": "9/10"
-    }, {
-      "id": 8,
-      "title": "Soulmate",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
-      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
-      "rating": "9/10"
+    },
+    {
+      "id": 1686485091428,
+      "title": "Your name",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+      "desc": "In depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+      "rating": "8/10"
+    },
+    {
+      "id": 1686485222306,
+      "title": "Your name",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+      "desc": "In depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+      "rating": "10/10"
     }
   ]
 }

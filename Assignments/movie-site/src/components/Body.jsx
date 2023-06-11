@@ -22,7 +22,28 @@ export const Body = () => {
     },[]);
 
     /*postData*/
-    
+    const postData = async () => {
+        const title=prompt("Enter the new title:","NA");
+        const img=prompt("Enter the new imageurl:","NA");
+        const desc=prompt("Enter the description:","NA");
+        const rating=prompt("rate(out of 10):",0);
+        await fetch("http://localhost:3002/movie", {
+          method: "POST",
+          body: JSON.stringify({
+            id: Date.now(),
+            title: title,
+            img:img,
+            desc: desc,
+            rating:rating
+          }),
+          headers: {
+            "Content-Type": "application/json",
+          },
+        }).then(res => {
+          res.json();
+          getData();
+        });
+      };
 
 
 
@@ -32,7 +53,7 @@ export const Body = () => {
         const title=prompt("Enter the new title:");
         const img=prompt("Enter the new imageurl:");
         const desc=prompt("Enter the description:");
-        const rating=prompt("rate:");
+        const rating=prompt("rate(out of 10):");
 
         await fetch(`http://localhost:3002/movie/${id}`,{
             method:"PUT",
@@ -69,7 +90,7 @@ export const Body = () => {
         <Navbar/>
         <div className='search-post'>
           <span><input type='text' placeholder='Search..' id='search'/><button type='submit' id='btn'>Search</button></span>  
-            <button type='submit' id='btn'>Add Movie</button>
+            <button type='submit' id='btn' onClick={postData}>Add Movie</button>
         </div>
        <div className='movie-body'>
         {
