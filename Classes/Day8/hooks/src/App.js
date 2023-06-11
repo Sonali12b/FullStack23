@@ -11,6 +11,7 @@ function App() {
   useEffect(() => {
     getSearchedData();
   }, [searchStr]);
+  
   /*getData*/
   const getData = async () => {
     await fetch("http://localhost:3001/users", {
@@ -23,6 +24,7 @@ function App() {
         setArr(data);
       });
   };
+
   useEffect(() => {
     getData();
   }, []);
