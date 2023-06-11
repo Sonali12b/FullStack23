@@ -10,7 +10,9 @@ export const Movie = ({title,img,desc,rating,updatehandle,deletehandle}) => {
           </div>
           <p className="post-time">{rating}</p> 
         </div>
+        <div className="movie-img">
         <img src={img} className="post-image" />
+        </div>
         <div className="post-content">
           <p className="description"> {desc}</p>
         </div>

@@ -15,46 +15,170 @@
       "rating": "9/10"
     },
     {
-      "id": 4,
-      "title": "Soulmate",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
-      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
-      "rating": "9/10"
-    },
-    {
-      "id": 5,
-      "title": "Soulmate",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
-      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
-      "rating": "9/10"
-    },
-    {
-      "id": 6,
-      "title": "Soulmate",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
-      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
-      "rating": "9/10"
-    },
-    {
-      "id": 7,
-      "title": "Soulmate",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Soulmate_%282023_film%29.jpg",
-      "desc": "Two girls first meet at the age of 13 and become friends. For the next 14 years, the two girls experience love, jealousy and personal growth.",
-      "rating": "9/10"
-    },
-    {
-      "id": 1686485091428,
-      "title": "Your name",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
-      "desc": "In depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
-      "rating": "8/10"
-    },
-    {
       "id": 1686485222306,
       "title": "Your name",
       "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
       "desc": "In depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
       "rating": "10/10"
+    },
+    {
+      "id": 1686493573247,
+      "title": "Recalled",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/Recalled_film.jpg",
+      "desc": "Soo-jin (Seo Yea-ji) is involved in an accident and loses her memory. She begins to see the future and as illusions start becoming reality, her confusing memories bring her face-to-face with a truth about her husband Ji-hoon (Kim Kang-woo).",
+      "rating": "7/10"
+    },
+    {
+      "id": 1686504822438,
+      "title": "Night in Paradise",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Night_in_paradise.jpg",
+      "desc": "It tells the story of Tae-gu. In retaliation, Tae-gu's sister and niece are murdered, causing him to seek revenge by brutally killing Chairman Doh and his men before fleeing to Jeju Island.",
+      "rating": "7/10"
+    },
+    {
+      "id": 1686505739034,
+      "title": "The Witch: The Subversion",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/The_Witch-Part_1._The_Subversion.jpg",
+      "desc": "A young girl escapes from a mysterious laboratory after a violent incident that leaves many dead. The girl collapses on a farm, where she is discovered by the owner, Mr. and Mrs. Goo.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739033,
+      "title": "The Witch: The Other One",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_Witch_Part_2._The_Other_One.jpg",
+      "desc": "A young girl escapes from a mysterious laboratory after a violent incident that leaves many dead. Two members that run the lab, Dr. Baek and Mr. Choi, considered her dead. The girl collapses on a farm, where she is discovered by the owner, Mr. and Mrs. Goo.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739035,
+      "title": "The Divine Fury",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/The_Divine_Fury_poster.jpg",
+      "desc": "The film tells the story of Yong-hoo (Park Seo-joon), a martial arts champion who gains divine powers to fight against a powerful evil force.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739045,
+      "title": "Midnight Runners",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Midnight_Runners.jpg",
+      "desc": "Two friends who are students at Korean National Police University, find themselves in an endless race against time after they witness a kidnapping and decide to use their knowledge.",
+      "rating": "8.5/10"
+    },
+    {
+      "id": 1686485222380,
+      "title": "20th Century Girl",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/20th_Century_Girl.jpg",
+      "desc": "Set in 1999, the story revolves around Na Bo-ra (Kim Yoo-jung), a seventeen-year-old high school student with a bright personality.",
+      "rating": "9/10"
+    },
+    {
+      "id": 1686485222370,
+      "title": "The Pirates: The Last Royal Treasure",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/The_Pirates_Goblin_Flag.jpg",
+      "desc": "Moo-chi (Kang Ha-neul), the head of the bandits, who claims to be the best swordsman in Goryeo, and Hae-rang (Han Hyo-joo), the owner of a pirate ship that conquered the sea. ",
+      "rating": "9/10"
+    },
+    {
+      "id": 1686485222360,
+      "title": "Your name",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+      "desc": "In depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+      "rating": "10/10"
+    },
+    {
+      "id": 1686493573260,
+      "title": "Recalled",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/Recalled_film.jpg",
+      "desc": "Soo-jin (Seo Yea-ji) is involved in an accident and loses her memory. She begins to see the future and as illusions start becoming reality, her confusing memories bring her face-to-face with a truth about her husband Ji-hoon (Kim Kang-woo).",
+      "rating": "7/10"
+    },
+    {
+      "id": 1686504822450,
+      "title": "Night in Paradise",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Night_in_paradise.jpg",
+      "desc": "It tells the story of Tae-gu. In retaliation, Tae-gu's sister and niece are murdered, causing him to seek revenge by brutally killing Chairman Doh and his men before fleeing to Jeju Island.",
+      "rating": "7/10"
+    },
+    {
+      "id": 1686505739040,
+      "title": "The Witch: The Subversion",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/The_Witch-Part_1._The_Subversion.jpg",
+      "desc": "A young girl escapes from a mysterious laboratory after a violent incident that leaves many dead. The girl collapses on a farm, where she is discovered by the owner, Mr. and Mrs. Goo.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739030,
+      "title": "The Witch: The Other One",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_Witch_Part_2._The_Other_One.jpg",
+      "desc": "A young girl escapes from a mysterious laboratory after a violent incident that leaves many dead. Two members that run the lab, Dr. Baek and Mr. Choi, considered her dead. The girl collapses on a farm, where she is discovered by the owner, Mr. and Mrs. Goo.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739010,
+      "title": "The Divine Fury",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/The_Divine_Fury_poster.jpg",
+      "desc": "The film tells the story of Yong-hoo (Park Seo-joon), a martial arts champion who gains divine powers to fight against a powerful evil force.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739020,
+      "title": "Midnight Runners",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Midnight_Runners.jpg",
+      "desc": "Two friends who are students at Korean National Police University, find themselves in an endless race against time after they witness a kidnapping and decide to use their knowledge.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686485222800,
+      "title": "20th Century Girl",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/20th_Century_Girl.jpg",
+      "desc": "Set in 1999, the story revolves around Na Bo-ra (Kim Yoo-jung), a seventeen-year-old high school student with a bright personality.",
+      "rating": "9/10"
+    },
+    {
+      "id": 1686485222800,
+      "title": "The Pirates: The Last Royal Treasure",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/The_Pirates_Goblin_Flag.jpg",
+      "desc": "Moo-chi (Kang Ha-neul), the head of the bandits, who claims to be the best swordsman in Goryeo, and Hae-rang (Han Hyo-joo), the owner of a pirate ship that conquered the sea. ",
+      "rating": "9/10"
+    },
+    {
+      "id": 1686485222700,
+      "title": "Your name",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png",
+      "desc": "In depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+      "rating": "10/10"
+    },
+    {
+      "id": 1686493573600,
+      "title": "Recalled",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3d/Recalled_film.jpg",
+      "desc": "Soo-jin (Seo Yea-ji) is involved in an accident and loses her memory. She begins to see the future and as illusions start becoming reality, her confusing memories bring her face-to-face with a truth about her husband Ji-hoon (Kim Kang-woo).",
+      "rating": "7/10"
+    },
+    {
+      "id": 1686504822500,
+      "title": "Night in Paradise",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2d/Night_in_paradise.jpg",
+      "desc": "It tells the story of Tae-gu. In retaliation, Tae-gu's sister and niece are murdered, causing him to seek revenge by brutally killing Chairman Doh and his men before fleeing to Jeju Island.",
+      "rating": "7/10"
+    },
+    {
+      "id": 1686505739400,
+      "title": "The Witch: The Subversion",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ca/The_Witch-Part_1._The_Subversion.jpg",
+      "desc": "A young girl escapes from a mysterious laboratory after a violent incident that leaves many dead. The girl collapses on a farm, where she is discovered by the owner, Mr. and Mrs. Goo.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739300,
+      "title": "The Witch: The Other One",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_Witch_Part_2._The_Other_One.jpg",
+      "desc": "A young girl escapes from a mysterious laboratory after a violent incident that leaves many dead. Two members that run the lab, Dr. Baek and Mr. Choi, considered her dead. The girl collapses on a farm, where she is discovered by the owner, Mr. and Mrs. Goo.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739200,
+      "title": "The Divine Fury",
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/The_Divine_Fury_poster.jpg",
+      "desc": "The film tells the story of Yong-hoo (Park Seo-joon), a martial arts champion who gains divine powers to fight against a powerful evil force.",
+      "rating": "8.5/10"
+    },{
+      "id": 1686505739100,
+      "title": "Midnight Runners",
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Midnight_Runners.jpg",
+      "desc": "Two friends who are students at Korean National Police University, find themselves in an endless race against time after they witness a kidnapping and decide to use their knowledge.",
+      "rating": "8.5/10"
     }
   ]
+  
 }

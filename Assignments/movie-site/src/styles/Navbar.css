@@ -20,15 +20,15 @@
 }
 .container{
     border-radius: 9px;
-    padding: 20px;
-    width: 90%;
+    padding: 10px;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 .logo{
     text-decoration: none;
-    color: aliceblue;
+    color: rgb(25, 102, 168);
     font-weight: bold;
     font-style: italic;
     font-size: 30px;
@@ -66,6 +66,12 @@
 .nav img{
     /* padding-left: 10px; */
     width: 50px;
-    object-fit: contain;
+    object-fit: cover;
+    /* padding-right: 10px; */
 }
+span{
+    align-items: center;
+
+}
+
 
