@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import { Body } from "./components/Body";
 import { SearchProvider } from './components/searchContext';
-import Homepage from './components/Homepage'
+
 function App() {
   return (
     <SearchProvider>
-      <Homepage/>
+      <Body></Body>
     </SearchProvider>
   );
 }

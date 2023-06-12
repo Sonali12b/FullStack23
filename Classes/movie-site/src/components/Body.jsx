@@ -3,10 +3,13 @@ import { Movie } from "./Movie-card";
 import { Navbar } from "./Navbar";
 import "../styles/Body.css";
 import "../styles/Navbar.css";
+import { useContext } from "react";
+import SearchContext from "./searchContext";
 export const Body = () => {
   const [arr, setArr] = useState([]);
   const [newarr, setnewArr] = useState([]);
-  const [searchStr, getSearchStr] = useState("");
+  // const [searchStr, getSearchStr] = useState("");
+  const {search,updateSearch} = useContext(SearchContext);
   const [page, setPage] = useState(1);
   const [wholeArr, setWholeArr] = useState([]);
 
@@ -93,16 +96,16 @@ export const Body = () => {
 
   /*searchData */
   const searchData = () => {
-    const newData = arr.filter(item => item.title.includes(searchStr));
+    const newData = arr.filter(item => item.title.includes(search));
     console.log(newData);
     setnewArr(newData);
   };
-  const handleChange = e => {
-    getSearchStr(e.target.value);
-  };
+  // const handleChange = e => {
+  //   getSearchStr(e.target.value);
+  // };
   useEffect(() => {
     searchData();
-  }, [searchStr]);
+  }, [search]);
   console.log(newarr);
 
   /*pagination*/
@@ -123,7 +126,7 @@ export const Body = () => {
   return (
     <div className="body">
       <Navbar />
-      <div className="search-post">
+      {/* <div className="search-post">
         <span>
           <input
             type="text"
@@ -136,10 +139,11 @@ export const Body = () => {
             Search
           </button>
         </span>
-        <button type="submit" id="btn" onClick={postData}>
+        
+      </div> */}
+      <button type="submit" id="btn" onClick={postData}>
           Add Movie
         </button>
-      </div>
       {newarr.length > 0 ? (
         <div className="movie-body">
           {newarr.map(el => {
@@ -155,7 +159,7 @@ export const Body = () => {
             );
           })}
         </div>
-      ) : searchStr.length == 0 ? (
+      ) : search.length == 0 ? (
         <div>
           <div className="movie-body">
             {arr.map(el => {
