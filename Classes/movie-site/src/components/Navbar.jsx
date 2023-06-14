@@ -1,5 +1,4 @@
 import React from 'react'
-import {BsSearch} from 'react-icons/bs'
 import SearchContext from './searchContext';
 import '../styles/Navbar.css';
 import { useContext } from 'react';

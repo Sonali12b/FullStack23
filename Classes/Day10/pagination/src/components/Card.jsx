@@ -1,6 +1,7 @@
 import React from 'react'
+import { useMemo } from "react";
 
-export const Card = (/*{name,passenger,country,slogan,head_quaters}*/{userid,title,body}) => {
+export const Card = React.memo((/*{name,passenger,country,slogan,head_quaters}*/{userid,title,body}) => {
   return (
     <div className='card'>
         {/* <h1>{name}</h1>
@@ -13,4 +14,4 @@ export const Card = (/*{name,passenger,country,slogan,head_quaters}*/{userid,tit
         <p>{body}</p>
     </div>
   )
-}
+})
